@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="986" viewBox="0 0 420 986" role="img" aria-label="Cases: Livro BMAD, 1 livro publicado pela Packt sobre Spec-Driven Development; Livro TMR, 1 livro para líderes de tecnologia; Cursos online, 3 cursos online sobre IA e gestão de tecnologia; tech-manager-os, 19 estrelas no GitHub pacote publicado no npm">
+<title>Cases: Livro BMAD, 1 livro publicado pela Packt sobre Spec-Driven Development; Livro TMR, 1 livro para líderes de tecnologia; Cursos online, 3 cursos online sobre IA e gestão de tecnologia; tech-manager-os, 19 estrelas no GitHub pacote publicado no npm</title>
+<style>
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.run{stroke-dasharray:9 91;animation:run 7s linear infinite}
+@keyframes run{to{stroke-dashoffset:-100}}
+.shine{animation:shine 8s ease-in-out infinite}
+@keyframes shine{0%,72%{transform:translateX(-420px)}100%{transform:translateX(1300px)}}
+.ln{stroke-dasharray:100;stroke-dashoffset:100;animation:ln 1.4s ease forwards}
+@keyframes ln{to{stroke-dashoffset:0}}
+.emo{font:22px 'Apple Color Emoji','Segoe UI Emoji','Noto Color Emoji',sans-serif}
+.ct{font:700 21px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.cs{font:500 13px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.cp{font:700 10.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.3px;fill:#C9B88A}
+.cn{font:400 50px Georgia,'Times New Roman',serif;fill:url(#g)}
+.cl{font:500 14px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.cf{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#8F8778}
+.nn{font:400 46px Georgia,'Times New Roman',serif;fill:url(#g)}
+.nl{font:500 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+.mk{font:400 20px Georgia,'Times New Roman',serif;fill:#C9B88A}
+.mt{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.ms{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.gt{font:700 13.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.pt{font:700 14.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.ps{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.at{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#F1ECE3}
+.as{font:500 12px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#A39A8A}
+.ap{font:700 9.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;letter-spacing:1.2px;fill:#C9B88A}
+.al{font:500 12.5px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:#CFC6B6}
+</style>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E6D9B5"/><stop offset="1" stop-color="#8A7C58"/></linearGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#F1E3C4" stop-opacity="0"/><stop offset=".5" stop-color="#F1E3C4" stop-opacity=".09"/><stop offset="1" stop-color="#F1E3C4" stop-opacity="0"/></linearGradient>
+</defs>
+<g transform="translate(0.0,0)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc0"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc0)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">📘</text>
+<text class="ct" x="76" y="40">Livro BMAD</text>
+<text class="cs" x="76" y="59">desenvolvimento orientado a spec</text>
+<rect x="339.0" y="22" width="59.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="368.5" y="37.0" text-anchor="middle">LIVRO</text>
+<g class="up" style="animation-delay:0.10s"><text class="cn" x="22" y="138">1</text></g>
+<g class="up" style="animation-delay:0.35s"><text class="cl" x="24" y="166" text-anchor="start">livro publicado pela Packt</text><text class="cl" x="24" y="185" text-anchor="start">sobre Spec-Driven Development</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.50s"/>
+<g class="up" style="animation-delay:0.60s"><text class="cf" x="24" y="219">Cursor · BMAD · Context Engineering</text></g></g><g transform="translate(0.0,250)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc1"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc1)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">📗</text>
+<text class="ct" x="76" y="40">Livro TMR</text>
+<text class="cs" x="76" y="59">Tech Manager de Resultados</text>
+<rect x="339.0" y="22" width="59.0" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="368.5" y="37.0" text-anchor="middle">LIVRO</text>
+<g class="up" style="animation-delay:0.20s"><text class="cn" x="22" y="138">1</text></g>
+<g class="up" style="animation-delay:0.45s"><text class="cl" x="24" y="166" text-anchor="start">livro para líderes</text><text class="cl" x="24" y="185" text-anchor="start">de tecnologia</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.60s"/>
+<g class="up" style="animation-delay:0.70s"><text class="cf" x="24" y="219">gestão de times de tecnologia</text></g></g><g transform="translate(0.0,500)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc2"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc2)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🎓</text>
+<text class="ct" x="76" y="40">Cursos online</text>
+<text class="cs" x="76" y="59">BMAD, Cursor e carreira de gestão</text>
+<rect x="331.6" y="22" width="66.4" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="364.8" y="37.0" text-anchor="middle">CURSOS</text>
+<g class="up" style="animation-delay:0.30s"><text class="cn" x="22" y="138">3</text></g>
+<g class="up" style="animation-delay:0.55s"><text class="cl" x="24" y="166" text-anchor="start">cursos online sobre IA</text><text class="cl" x="24" y="185" text-anchor="start">e gestão de tecnologia</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.70s"/>
+<g class="up" style="animation-delay:0.80s"><text class="cf" x="24" y="219">BMAD · Cursor para PMs · Tech Manager</text></g></g><g transform="translate(0.0,750)"><rect x="1" y="1" width="418" height="234" rx="16" fill="#151310" stroke="#2A2723"/>
+<clipPath id="cc3"><rect x="1" y="1" width="418" height="234" rx="16"/></clipPath>
+<g clip-path="url(#cc3)"><g class="shine"><rect x="0" y="-20" width="150" height="276" fill="url(#sh)" transform="skewX(-18)"/></g></g>
+<rect class="run" x="1" y="1" width="418" height="234" rx="16" fill="none" stroke="url(#g)" stroke-width="1.6" pathLength="100"/>
+<rect x="22" y="22" width="40" height="40" rx="11" fill="#1F1C18" stroke="#2A2723"/>
+<text class="emo" x="42" y="50" text-anchor="middle">🗂️</text>
+<text class="ct" x="76" y="40">tech-manager-os</text>
+<text class="cs" x="76" y="59">sistema operacional para EMs</text>
+<rect x="324.2" y="22" width="73.8" height="22" rx="11.0" fill="#1F1C18" stroke="#3A352E"/><text class="cp" x="361.1" y="37.0" text-anchor="middle">PRODUTO</text>
+<g class="up" style="animation-delay:0.40s"><text class="cn" x="22" y="138">19</text></g>
+<g class="up" style="animation-delay:0.65s"><text class="cl" x="24" y="166" text-anchor="start">estrelas no GitHub</text><text class="cl" x="24" y="185" text-anchor="start">pacote publicado no npm</text></g>
+<line class="ln" x1="24" y1="196" x2="396" y2="196" stroke="#2A2723" pathLength="100" style="animation-delay:0.80s"/>
+<g class="up" style="animation-delay:0.90s"><text class="cf" x="24" y="219">CLI · Obsidian · Claude Code · MIT</text></g></g>
+</svg>
